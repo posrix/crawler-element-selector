@@ -1,0 +1,8 @@
+ html body div div div div div form span span
+ html body div div div div div form span input
+ html body div div div div div form span a
+ html body div div div div a
+ html body div div div div
+ html body div div div div a:contains('设置')
+ html body div div div div a:contains('更多产品')
+ html body div div div div
