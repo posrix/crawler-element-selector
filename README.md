@@ -2,6 +2,8 @@
 
 Crawl elements selector which match specific DOM event.
 
+<img src="https://github.com/posrix/portrayal/blob/master/crawler-element-selector/example.gif" width="500"/>
+
 ## Install
 
 ```bash
