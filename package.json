@@ -2,7 +2,7 @@
   "name": "crawler-element-selector",
   "description": "Crawl elements selector which match specific DOM event",
   "author": "posrix <posrix@outlook.com>",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint --fix lib; exit 0",
